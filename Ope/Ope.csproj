@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+	<TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Railway Oriented Programming lib</Description>
+	<PackageId>Railway.Ope</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>M0aB0z</Authors>
+	<Company>M0aB0z</Company>
+  </PropertyGroup>
+</Project>
